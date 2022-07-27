@@ -7,7 +7,7 @@
 
 - [Componentes](#componentes)
 - [Como usar](#como-usar)
-- [Imagens de funcionamento, circuito e montado](#Imagens-funcionamento-circuito-montado)
+- [Imagens de funcionamento, circuito e montado](#imagens-de-funcionamento-circuito-e-montado)
 - [Referencias](#referências)
 - [Autores](#autores)
 
@@ -103,10 +103,14 @@ void loop()
 ```
 ---
 
-## Imagens
-
-![Circuito](imagem_circuito-tinkercad.png.PNG "Circuito")
+## Imagens de funcionamento, circuito e montado
+#### Foto do Projeto
 ![Projeto](imagem_projeto.jpeg "Projeto")
+
+#### Exemplo do circuito no TinkerCAD
+![Circuito](imagem_circuito-tinkercad.png "Circuito")
+
+#### Marcação das medições no painel monitor
 ![Medições](imagem_temp-umidade.png "Medições")
 
 ---
