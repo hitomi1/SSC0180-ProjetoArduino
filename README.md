@@ -7,6 +7,7 @@
 
 - [Componentes](#componentes)
 - [Como usar](#como-usar)
+- [Imagens de funcionamento, circuito e montado](#Imagens-funcionamento-circuito-montado)
 - [Referencias](#referências)
 - [Autores](#autores)
 
@@ -100,6 +101,13 @@ void loop()
 }
 
 ```
+---
+
+## Imagens
+
+![Circuito](imagem_circuito-tinkercad.png.PNG "Circuito")
+![Projeto](imagem_projeto.jpeg "Projeto")
+![Medições](imagem_temp-umidade.png "Medições")
 
 ---
 
