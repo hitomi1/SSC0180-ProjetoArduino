@@ -30,14 +30,14 @@ void loop()
   temperatura = my_dht.temperature;
   umidade     = my_dht.humidity;
 
-  if(temperatura>20){
+  if(temperatura>25){
     digitalWrite(ledBranco,HIGH);
     }
     else{
       digitalWrite(ledBranco,LOW);
     }
   
-  if(umidade>75){
+  if(umidade>70){
     digitalWrite(ledAmarelo,HIGH);
     }
     else{
