@@ -110,6 +110,10 @@ void loop()
 #### Exemplo do circuito no TinkerCAD
 ![Circuito](imagem_circuito-tinkercad.png "Circuito")
 
+#### Sensor
+O sensor usado é diferente do que aparece no circuito do TinderCAD, já que lá não existe o DHT11
+![Circuito](imagem_dht11.jpg "DHT11")
+
 #### Marcação das medições no painel monitor
 ![Medições](imagem_temp-umidade.png "Medições")
 
